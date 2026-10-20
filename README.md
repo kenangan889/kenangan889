@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**kenangan889/kenangan889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# KENANGAN889 Digital Journal
 
-Here are some ideas to get you started:
+Selamat datang di halaman GitHub KENANGAN889.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tentang KENANGAN889
+
+KENANGAN889 Digital Journal adalah portal informasi independen yang membahas budaya permainan digital, teknologi, literasi informasi, dan perkembangan hiburan online di Indonesia.
+
+Kami membagikan artikel edukatif tentang probabilitas, RTP, keamanan digital, serta pentingnya memahami aturan dan risiko permainan berbasis taruhan.
+
+## Website
+
+https://kenangan889.cc/
+
+## Fokus Konten
+
+- Budaya permainan digital
+- Teknologi dan hiburan online
+- Literasi digital dan keamanan informasi
+- Pemahaman probabilitas dan RTP
+- Edukasi tentang risiko perjudian
+
+## Transparansi
+
+KENANGAN889 Digital Journal merupakan portal informasi independen, bukan operator perjudian atau pemegang lisensi.
+
+Konten diterbitkan untuk tujuan informasi dan edukasi, bukan jaminan hasil permainan.
+
+## Media Sosial
+
+Tautan akun media sosial yang telah diverifikasi akan ditambahkan di sini.
